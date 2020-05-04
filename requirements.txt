@@ -1,0 +1,10 @@
+channels
+channels_redis
+django
+django_mysql
+djangorestframework
+djangorestframework-jwt
+django-cors-headers
+pendulum
+stripe
+Pillow
